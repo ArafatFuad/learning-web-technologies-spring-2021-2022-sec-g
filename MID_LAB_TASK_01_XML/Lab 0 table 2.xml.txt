@@ -1,0 +1,17 @@
+<Tables>
+   <Table>
+      <Serial_number>23</serial_number>
+      <name>john_carter</name>
+      <Admission_date>25/12/2015</Admission_date>
+   </Table>
+    <Table>
+       <Serial_number>29</serial_number>
+      <name>bob_marshal</name>
+      <Admission_date>13/01/1999</Admission_date>
+   </Table>
+    <Table>
+      <Serial_number>35</serial_number>
+      <name>clark_kent</name>
+      <Admission_date>17/06/2005</Admission_date>
+   </Table>
+</Tables>

@@ -1,0 +1,23 @@
+<Tables>
+   <Table>
+      <id>1</id>
+      <name>john_doe</name>
+      <address>h#38_r#3_banani_dhaka</address>
+      <Department>sales</Department>
+      <salary>20000</salary>
+   </Table>
+    <Table>
+      <id>2</id>
+      <name>mark_zuckerberg</name>
+     <address>flat#A/1_h#20_r#18_mirpur_dhaka</address>
+      <Department>accounts</Department>
+      <salary>12000</salary>
+   </Table>
+    <Table>
+      <id>3</id>
+      <name>mark_zuckerberg</name>
+     <address>h#38_r#3_motijheel</address>
+      <Department>human_resources</Department>
+      <salary>30000</salary>
+   </Table>
+</Table>
