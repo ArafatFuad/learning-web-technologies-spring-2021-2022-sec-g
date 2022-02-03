@@ -1,0 +1,78 @@
+<html>
+
+<head>
+ <title>Curriculum Vitae</title>
+<body style="background-color:white">
+<div style="position:absolute;left:50%;margin-left:-306px;top:0px;width:612px;height:792px;border-style:outset;overflow:hidden">
+<body>
+
+
+<img src="Fuad.jpg.JPG" />
+
+<h2 style="background-color:cadetblue;"helo orld</h2>
+
+<center>
+ <font size="40px">
+ <h6 style="color:black;">  Curriculum Vitae <br> of <br>Arafat Al Khair Fuad <br> cell: 01580256406</h6>
+
+ </font>
+ </center>
+ 
+ <p><strong>Name:</strong>Arafat Al Khair Fuad</p>
+<p><strong>Father:s name :</strong> Abul Khair</p>
+<p><strong>mother"s name :</strong>Jesmine Akther</p>
+<p><strong>Date of Birth:</strong>April 15,1999</p>
+<p><strong>Blood group :</strong> O+</p>
+<p><strong> Nationality : </strong> Bangladeshi</p>
+<p><strong>permanent adress :</strong>Hamankardi, Chandpur</p>
+<p><strong>present adress : </strong>Shahjadpur, Dhaka</p>
+<p><strong>Email: </strong><a href="arafat.khair45@gmail.com"><strong>arafat.khair45@gmail.com</strong></a></p>
+
+<P> Carrer Objectives: <p>
+<p>                    </p>
+<p>I am a deligent and motivated student,seeking carrer opportunity to implement my skills and abilities and ant to nourissh my knowledgee to enhance my exxpertise and gain experience to contribute my organisation.</p>
+
+<P> Educational Qualification: <p>
+<table border="1" style="width: 50%">
+  <tr>
+     <td>Exam</td>
+<td>Department/Group</td>
+<td>University/College</td>
+<td>Year</td>
+<td>Result</td>
+  </tr>
+  <tr>
+     <td>BSc</td>
+<td>Bsc.Cse</td>
+<td>American International University Of Bangladesh</td>
+<td>2018</td>
+<td>3.80</td>
+  </tr>
+  <tr>
+     <td>HSC</td>
+<td>Science</td>
+<td>BAF Shaheen College,Dhaka</td>
+<td>2014</td>
+<td>4.85</td>
+  </tr>
+  <tr>
+     <td>SSC</td>
+<td>Science</td>
+<td>Cambrian School</td>
+<td>2012</td>
+<td>5.00</td>
+  </tr>
+</table>
+
+<P> Work experience: <p>
+<p>                    </p> 
+<p>Former assistant software engeenier<br> American International University of Bangladesh </p>
+
+ <P> Language Proficiency: <p>
+<p>                    </p> 
+<p>Proficient in oral and writing in both Bengali and English Language. </p>
+  
+
+</body>
+</head>
+
