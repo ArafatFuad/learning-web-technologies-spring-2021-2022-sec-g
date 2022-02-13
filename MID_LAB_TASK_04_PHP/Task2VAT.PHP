@@ -1,10 +1,8 @@
 <?php
-
-	function Amount($num1){
-		echo ($num1*15)/100;
+	
+	if(isset($_POST['submit'])){
+		$name = $_POST['name'];
+		echo $name;
 	}
 
-	Amount (3000);
-
-	
 ?>
